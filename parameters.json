@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_TheNidasApp_name": {
+            "value": null
+        },
+        "components_TheNidasApp_name": {
+            "value": null
+        },
+        "databaseAccounts_thenidasdb_name": {
+            "value": null
+        },
+        "serverfarms_ASP_TheNidasFootwear_9261_name": {
+            "value": null
+        },
+        "storageAccounts_thenidasfootweara547_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___thenidasapp_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_fb54139e_6415_4423_84b4_c7d1f19f4a5d_CUS_externalid": {
+            "value": null
+        }
+    }
+}
